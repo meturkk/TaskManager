@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\models\\taskreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\models\\taskreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\migrations\\20250420143650_addiscompletedtotaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\migrations\\20250420143650_addiscompletedtotaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\migrations\\20250420132244_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\migrations\\20250420132244_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\dtos\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\dtos\\taskupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\dtos\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\dtos\\taskcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\gorevyoneticiapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\gorevyoneticiapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|c:\\users\\emin\\source\\repos\\gorevyoneticiapi\\gorevyoneticiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2695147F-A62C-414A-97C1-762702984847}|GorevYoneticiAPI\\GorevYoneticiAPI.csproj|solutionrelative:gorevyoneticiapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Models\\TaskItem.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:05:14.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskReport.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Models\\TaskReport.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Models\\TaskReport.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Models\\TaskReport.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Models\\TaskReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:05:44.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Models\\User.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:08:50.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Services\\ITokenService.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:15:55.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:16:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\appsettings.json",
+              "RelativeToolTip": "GorevYoneticiAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T12:12:17.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250420143650_AddIsCompletedToTaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Migrations\\20250420143650_AddIsCompletedToTaskItem.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Migrations\\20250420143650_AddIsCompletedToTaskItem.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Migrations\\20250420143650_AddIsCompletedToTaskItem.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Migrations\\20250420143650_AddIsCompletedToTaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:36:50.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250420132244_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Migrations\\20250420132244_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Migrations\\20250420132244_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Migrations\\20250420132244_InitialCreate.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Migrations\\20250420132244_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:22:45.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:15:21.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:14:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\DTOs\\TaskUpdateDto.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\DTOs\\TaskUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\DTOs\\TaskUpdateDto.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\DTOs\\TaskUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:07:12.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\DTOs\\TaskCreateDto.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\DTOs\\TaskCreateDto.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\DTOs\\TaskCreateDto.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\DTOs\\TaskCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:39:15.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:09:27.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:38:44.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:20:41.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GorevYoneticiAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T14:17:23.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GorevYoneticiAPI",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\GorevYoneticiAPI.csproj",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\GorevYoneticiAPI.csproj",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\GorevYoneticiAPI.csproj",
+              "RelativeToolTip": "GorevYoneticiAPI\\GorevYoneticiAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T14:17:21.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\Program.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAiwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:13:26.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "GorevYoneticiAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Emin\\source\\repos\\GorevYoneticiAPI\\GorevYoneticiAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "GorevYoneticiAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:08:16.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
